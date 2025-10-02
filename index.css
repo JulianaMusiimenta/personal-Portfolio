@@ -14,6 +14,7 @@ body {
    Navbar
 ======================== */
 .navbar {
+  position: sticky;
   border-radius: 5px;
   padding: 20px 50px;
   position: fixed;          /* Fixed at top */
@@ -213,7 +214,7 @@ section {
    Footer
 ======================== */
 .footer {
-  background: #9898eb;
+  background: #000080;
   color: white;
   padding: 40px 20px 20px 20px;
   font-size: 16px;
